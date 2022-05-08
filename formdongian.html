@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form Đơn Gỉan</title>
+</head>
+<style>
+    table {
+font-family: "Calibri Light";
+        border-collapse: collapse;
+        border:5px solid ghostwhite;
+        width: 30%;
+       background: ghostwhite;
+        padding:20px;
+    }
+th {text-align: center;}
+</style>
+
+<body>
+<form action="" method="post">
+    <table>
+        <tr>
+            <th colspan="4">
+                <style>
+                    th {
+                        background: tomato;
+                    color: white}
+                </style>SỞ THÍCH CỦA BẠN</th>
+        </tr>
+        <tr>
+            <td style=" text-align: right;color: darkblue">
+                Họ và tên</td>
+            <td colspan="2">
+                <input type="text" name=""style="width: 250px">
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style=" text-align: right;color: darkblue">Email</td>
+            <td colspan="3">
+                <input type="text" name="" id="" style="width: 200px">
+            </td>
+        </tr>
+        <tr>
+            <td style=" text-align: right;color: darkblue">Sở thích</td>
+            <td style="color: tomato"><input type="checkbox" id="hob1" name="hobbit" value="Sport"><label for="hob1">Thể thao</label></td>
+            <td style="color: tomato"><input type="checkbox" id="hob2" name="hobbit" value="Music"><label for="hob2">Âm nhạc</label></td>
+            <td style="color: tomato"><input type="checkbox" id="hob3" name="hobbit" value="Read book"><label for="hob3">Đọc sách</label></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td style="color: tomato"><input type="checkbox" id="hob4" name="hobbit" value="Web"><label for="hob4">Lướt web</label></td>
+            <td style="color: tomato"><input type="checkbox" id="hob5" name="hobbit" value="Game"><label for="hob5">Chơi game</label></td>
+            <td style="color: tomato"><input type="checkbox" id="hob6" name="hobbit" value="Cinema"><label for="hob6">Điện ảnh</label></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td style="color: tomato"><input type="checkbox" id="hob7" name="hobbit" value="Travel"><label for="hob7">Du lịch</label></td>
+            <td colspan="2"></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td colspan="3"><input type = "submit" name="btSubmit" value="Gửi thông tin" style="font-family: 'Calibri Light'"/>
+            <input type="reset" value="Nhập lại" style="font-family: 'Calibri Light'">
+            </td>
+        </tr>
+    </table>
+</form>
+</body>
+</html>
