@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee182712-0981-442a-b7e2-9d86f046057f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/btDK.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculater.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/date.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phuonggg/BMI.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LTloop2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/table2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toanTu3Ngoi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btDK.html" beforeDir="false" afterPath="$PROJECT_DIR$/btDK.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/switchcase.html" beforeDir="false" afterPath="$PROJECT_DIR$/switchcase.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +31,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="28ymEen8rnjsV4bj8ZzuY4oANAh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -64,7 +69,12 @@
       <workItem from="1652242856783" duration="2223000" />
       <workItem from="1652251147372" duration="289000" />
       <workItem from="1652251479629" duration="8283000" />
-      <workItem from="1652309249483" duration="2864000" />
+      <workItem from="1652309249483" duration="3273000" />
+      <workItem from="1652338236058" duration="2939000" />
+      <workItem from="1652370089216" duration="8945000" />
+      <workItem from="1652406038937" duration="11802000" />
+      <workItem from="1652448286414" duration="6710000" />
+      <workItem from="1652634325204" duration="732000" />
     </task>
     <servers />
   </component>

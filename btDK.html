@@ -5,6 +5,8 @@
     <title>Title</title>
 </head>
 <body>
+</body>
+</html>
 <script>
     // // bài 2
     // let m = parseFloat(prompt("Nhập số mét muốn đổi sang feet"))
@@ -22,7 +24,7 @@
     // let S = a * b
     // alert('Diện tích hình chữ nhật là: ' + S)
 
-    // // bài 5
+    // // bài 6
     // let a = parseFloat(prompt('Nhập a'))
     // let b = parseFloat(prompt('Nhập b'))
     // let x = -b/a
@@ -36,13 +38,90 @@
     //     else if (a != 0 && b != 0) {
     //         alert('Phương trình có nghiệm x = ' + x)}
 
-    // bài 6
-    let a = parseFloat(prompt('Nhập a'))
-    let b = parseFloat(prompt('Nhập b'))
-    let c = parseFloat(prompt('Nhập c'))
-    let dt = b^2-4*a*c
-    let x = -c/b
+    // // bài 7
+    // let a = +prompt('Nhập a')
+    // let b = +prompt('Nhập b')
+    // let c = +prompt('Nhập c')
+    // let dt = (b * b) - (4 * a * c)
+    //  if (a === 0 && b === 0 && c === 0) {
+    //      alert('Vô số nghiệm')
+    //  }
+    //  else if (a === 0 && b === 0 && c !== 0) {
+    //      alert('Vô nghiệm')
+    //  }
+    //  else if (a === 0 && b !== 0 && c !== 0) {
+    //      alert('Có 1 nghiệm là x= ' + -c/b)
+    //  }
+    //  else if (a !== 0 && b !== 0 && c !== 0) {
+    //      if (dt > 0) {
+    //          alert('Có 2 nghiệm phân biệt là x1 = ' + ((-b + Math.sqrt(dt)) / (2 * a)) + ' và x2 = ' + ((-b - Math.sqrt(dt)) / (2 * a)))
+    //      } else if (dt === 0) {
+    //          alert('Có 2 nghiệm là x1 = x2 ' + (-b / 2 * a))
+    //      } else {
+    //         alert("vô nghiệm")
+    //      }
+    //  }
 
+    // // bài 8
+    // let old = +prompt("nhập số tuổi")
+    //     alert('là tuổi của 1 người')
+    // }
+    // else {
+    //     alert('không là tuổi của 1 người')
+    // }
+
+    // // bài 11
+    // let money = +prompt('Nhập tiền lương: ')
+    // if (money < 5000000) {
+    //     document.write('Số tiền thuế phải nộp: ' + ((money)*5/100) + 'đ')
+    // }
+    // else if ( money < 10000000) {
+    //     document.write('Số tiền thuế phải nộp: ' + ((10/100 * money) - 250000) + 'đ')
+    // }
+    // else if ( money < 18000000) {
+    //     document.write('Số tiền thuế phải nộp: ' + ((15/100 * money) - 750000) + 'đ')
+    // }
+    // else if ( money < 32000000) {
+    //     document.write('Số tiền thuế phải nộp: ' + ((20/100 * money) - 1650000) + 'đ')
+    // }
+    // else if ( money < 52000000) {
+    //     document.write('Số tiền thuế phải nộp: ' + ((25/100n * money) - 3250000) + 'đ')
+    // }
+    // else if ( money < 80000000) {
+    //     document.write('Số tiền thuế phải nộp: ' + ((30/100 * money) - 5850000) + 'đ')
+    // }
+    // else {
+    //     document.write('Số tiền thuế phải nộp: ' + ((money*35/100) - 9850000) + 'đ')
+    // }
+
+    // // bài 5
+    // let a = +prompt('Nhập độ dài cạnh a')
+    // let b = +prompt('Nhập độ dài cạnh b')
+    // if (a !== 0 && b !== 0) {
+    // if (a === b) {
+    //     alert('Diện tích tam giác vuông là ' + 1/2*a*a)
+    // }
+    // else {
+    //     alert('Diện tích tam giác vuông là ' + 1/2*a*b)
+    // }}
+    // else {
+    //     alert('Error')
+    // }
+
+    // bài 10
+    let num = +parseInt(prompt('Nhập số điện'))
+    if (num < 50) {
+        alert('Tiền điện là: ' + (1678 * num))
+    } else if (num < 100) {
+        alert('Tiền điện là: ' + (1734 * num))
+    } else if (num < 200) {
+        alert('Tiền điện là: ' + (2014 * num))
+    } else if (num < 300) {
+        alert('Tiền điện là: ' + (2536 * num))
+    } else if (num < 400) {
+        alert('Tiền điện là: ' + (2834 * num))
+    } else {
+        alert('Tiền điện là: ' + (2927 * num))
+    }
 </script>
-</body>
-</html>
+
