@@ -5,21 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="524a2546-9b87-449c-8ed4-62d532891850" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BTham/LT1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BTham/LT2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BTham/checkSnt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BTham/convert.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BTmang/LT1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BTmang/sd-cac-ham-co-san.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrayElement.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dao-nguoc-phan-tu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/find-a-value-in-the-array.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phuonggg/btdk1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phuonggg/may-tinh-don-gian.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tim-max-trong-mang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/use-do-while.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/use-for.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/use-while.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTmang/Ffaking-textarea-on-typing.html" beforeDir="false" afterPath="$PROJECT_DIR$/BTmang/Ffaking-textarea-on-typing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTmang/tu-dien.html" beforeDir="false" afterPath="$PROJECT_DIR$/BTmang/tu-dien.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phuonggg/btdk1.html" beforeDir="false" afterPath="$PROJECT_DIR$/phuonggg/btdk1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +61,7 @@
       <workItem from="1652794477137" duration="19000" />
       <workItem from="1652794506283" duration="4214000" />
       <workItem from="1652923628444" duration="15304000" />
-      <workItem from="1653230419986" duration="2065000" />
+      <workItem from="1653230419986" duration="5991000" />
     </task>
     <servers />
   </component>
