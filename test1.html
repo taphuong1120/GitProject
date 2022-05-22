@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="text" id="test" placeholder="nhập đi mà">
+<button onclick="check()">check</button>
+<p id="result"></p>
+</body>
+<script>
+    function check() {
+        let a = document.getElementById("test").value;
+        if (parseInt(a)) {
+            document.getElementById("result").innerText = "là số"
+        } else {
+            document.getElementById("result").innerText = "là chữ"
+        }
+    }
+</script>
+</html>
